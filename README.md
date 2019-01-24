@@ -1,2 +1,2 @@
 # golang_standard_library
-this repository how to use standard library of golang
+this repository is how to use standard library of golang
